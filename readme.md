@@ -9,9 +9,15 @@ parity with Aemulus Mod Manager
 ### Why the name Concordia?
 While Aemulus was named such because it was created to rival ModCompendium ("Aemulus" meaning "Rivalry" in Latin) Concordia exists to be compatible with Aemulus, therefore "Concordia" meaning "Harmoniousness" was chosen.
 
+### TODO
+Right now, just get it installing a mod for persona 1, nothing more, this is an extremely ambitious project and I'll be surprised if I get PS2 support by the end of the year.
+
+
 ### Deps
 7zip
+
 g++ (at least C++17 compatible)
+
 mkisofs
 
 ### Credits 
